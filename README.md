@@ -46,23 +46,23 @@
 <p align="center">
 
   <!-- Stats Card -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahfujkhan&theme=radical&show_icons=true&count_private=true" />
 
   <!-- Streak Card -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfujkhan&theme=radical" />
 
 </p>
 
 <p align="center">
   <!-- Top Languages Card -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfujkhan&layout=compact&theme=radical" />
 </p>
 
 ---
 
 # 🚀 3D Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=000000&line=00ffff&point=ffffff&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfujkhan&theme=react-dark&bg_color=000000&line=00ffff&point=ffffff&area=true&hide_border=true">
 </p>
 
 ---
